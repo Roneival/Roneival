@@ -18,7 +18,7 @@ I'm Faten Ben Hassine, a dedicated and skilled Data Scientist specializing in Bi
 
 ## Education
 **University of Tunis El Manar, Faculty of Mathematics, Physics and Natural Sciences**
-- Research Master’s Degree in Electronics, Electrotechnology and Mechanics (Mar 2022)
+- Research Master’s Degree in Electronics, Electrotechnology and Mechanics (Mar 2022) with a focus on Machine learning: Implementation of AI algorithm for the classification of neurological disease on Python.
 - Bachelor Degree in Electronics, Electrical Engineering and Automation (May 2017)
 
 ## Projects
