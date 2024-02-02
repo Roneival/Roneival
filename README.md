@@ -57,7 +57,6 @@ _Check out my other projects below!_
 <img align="left" alt="PyTorch" title="PyTorch" width="26px" src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" />
 <img align="left" alt="Keras" title="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
 <img align="left" alt="OpenCV" title="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
-<img align="left" alt="OpenCV" title="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
 <img align="left" alt="Upwork" title="OpenCV" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg" />
 
 <br />
